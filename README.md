@@ -4,8 +4,8 @@ A Fully Responsive Chat Application Using Reactjs
 This is an intractive platform where you can build a community and can chat with one another. In this chat application you can share images also and you can change your profile picture when ever you want. This application will help you to cut short your distance by providing a very organized way to intract. I have made this website using React, JavaScript, Css, Bootstrap and HTML.
 I have a good command in Reactjs, CSS and JavaScript.
 
-![Screenshot (47)](https://user-images.githubusercontent.com/60695111/116792657-a48c0200-aadf-11eb-8f79-ee0580f66559.png)
-![Screenshot (47)](https://user-images.githubusercontent.com/60695111/116792667-afdf2d80-aadf-11eb-9f8d-13671aeb5107.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/60695111/116792722-0c424d00-aae0-11eb-92f2-49ed4f03f14f.png)
+
 
 I believe in creativity, I believe in innovation and most significantly, I believe in myself and I want to recognize myself as an inspiration for the world in the software industry.
 
